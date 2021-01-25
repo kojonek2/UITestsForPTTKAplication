@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTTKAutomatedTests", "PTTKAutomatedTests\PTTKAutomatedTests.csproj", "{122890BE-1728-4AA4-87C8-2FE1C2E77012}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{122890BE-1728-4AA4-87C8-2FE1C2E77012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{122890BE-1728-4AA4-87C8-2FE1C2E77012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{122890BE-1728-4AA4-87C8-2FE1C2E77012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{122890BE-1728-4AA4-87C8-2FE1C2E77012}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {810B618A-37A5-4BAD-9D10-DDB82437BD23}
+	EndGlobalSection
+EndGlobal
